@@ -1,0 +1,3 @@
+nameserver: aria.ns.cloudflare.com, rudy.ns.cloudflare.com
+portfolio: puterinurzawani-github-io.pages.dev, jerebu.my
+private-site: private.jerebu.my
