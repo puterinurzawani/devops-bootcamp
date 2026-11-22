@@ -1,0 +1,9 @@
+966427767648.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/puteri:kecil   b266a73d9884        105MB         31.6MB        
+966427767648.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/puteri:v1      b266a73d9884        105MB         31.6MB        
+NETWORK ID     NAME      DRIVER    SCOPE
+b363914da86e   arena     bridge    local
+13418a285db7   bridge    bridge    local
+58c3b5d1aeff   host      host      local
+8ec4aad1bef7   none      null      local
+DRIVER    VOLUME NAME
+local     me
